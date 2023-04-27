@@ -73,7 +73,6 @@ public class Metodos {
 		driver.get(url);
 		driver.manage().window().maximize();
 
-
 	}
 	
 	

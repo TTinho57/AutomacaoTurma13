@@ -3,7 +3,7 @@
 Feature: Abertura de conta
   
 
-  @tag1
+  @tag5
   Scenario: Fluxo do formulario de abertura de pessoa fisica
   Given que o usuario acesse a rul "https://www.original.com.br/"
   And selecionar o botão abrir nova conta
